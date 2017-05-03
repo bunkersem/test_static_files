@@ -1,0 +1,15 @@
+{
+  "name": "start_app",
+  "version": "0.0.1",
+  "description": "my learning app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sem postma",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.15.2"
+  }
+}
